@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Y  A  S  H  E  L\\Desktop\\New folder (4)\\FinalProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Y  A  S  H  E  L\\Desktop\\New folder (4)\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 294,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -18,7 +18,7 @@
           ]
         },
         {
-          "DockedHeight": 543,
+          "DockedWidth": 21,
           "SelectedChildIndex": -1,
           "Children": [
             {
